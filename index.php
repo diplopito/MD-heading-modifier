@@ -13,7 +13,7 @@
 $dir = "F:/xampp/htdocs/xtest/phalconucdocs4";
 
 /* Set flag to modify md file */
-const FLAG_REPLACE = true;
+const FLAG_REPLACE = false;
 
 /* Words to exclude from capitalization */
 const EXCLUDE = [
